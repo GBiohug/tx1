@@ -1,0 +1,7 @@
+C:\Users\14779\source\repos\Csharp练习1\if 作业\bin\Debug\if 作业.exe.config
+C:\Users\14779\source\repos\Csharp练习1\if 作业\bin\Debug\if 作业.exe
+C:\Users\14779\source\repos\Csharp练习1\if 作业\bin\Debug\if 作业.pdb
+C:\Users\14779\source\repos\Csharp练习1\if 作业\obj\Debug\if 作业.csproj.AssemblyReference.cache
+C:\Users\14779\source\repos\Csharp练习1\if 作业\obj\Debug\if 作业.csproj.CoreCompileInputs.cache
+C:\Users\14779\source\repos\Csharp练习1\if 作业\obj\Debug\if 作业.exe
+C:\Users\14779\source\repos\Csharp练习1\if 作业\obj\Debug\if 作业.pdb

@@ -1,0 +1,10 @@
+C:\Users\14779\source\repos\Csharp练习1\002\bin\Debug\netcoreapp3.1\002.deps.json
+C:\Users\14779\source\repos\Csharp练习1\002\bin\Debug\netcoreapp3.1\002.dll
+C:\Users\14779\source\repos\Csharp练习1\002\bin\Debug\netcoreapp3.1\002.pdb
+C:\Users\14779\source\repos\Csharp练习1\002\obj\Debug\netcoreapp3.1\002.csproj.AssemblyReference.cache
+C:\Users\14779\source\repos\Csharp练习1\002\obj\Debug\netcoreapp3.1\002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14779\source\repos\Csharp练习1\002\obj\Debug\netcoreapp3.1\002.AssemblyInfoInputs.cache
+C:\Users\14779\source\repos\Csharp练习1\002\obj\Debug\netcoreapp3.1\002.AssemblyInfo.cs
+C:\Users\14779\source\repos\Csharp练习1\002\obj\Debug\netcoreapp3.1\002.csproj.CoreCompileInputs.cache
+C:\Users\14779\source\repos\Csharp练习1\002\obj\Debug\netcoreapp3.1\002.dll
+C:\Users\14779\source\repos\Csharp练习1\002\obj\Debug\netcoreapp3.1\002.pdb

@@ -1,0 +1,6 @@
+C:\Users\14779\source\repos\Csharp练习1\bool类型判断\bin\Debug\bool类型判断.exe.config
+C:\Users\14779\source\repos\Csharp练习1\bool类型判断\bin\Debug\bool类型判断.exe
+C:\Users\14779\source\repos\Csharp练习1\bool类型判断\bin\Debug\bool类型判断.pdb
+C:\Users\14779\source\repos\Csharp练习1\bool类型判断\obj\Debug\bool类型判断.csproj.CoreCompileInputs.cache
+C:\Users\14779\source\repos\Csharp练习1\bool类型判断\obj\Debug\bool类型判断.exe
+C:\Users\14779\source\repos\Csharp练习1\bool类型判断\obj\Debug\bool类型判断.pdb

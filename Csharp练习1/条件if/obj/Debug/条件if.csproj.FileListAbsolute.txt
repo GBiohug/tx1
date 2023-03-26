@@ -1,0 +1,7 @@
+C:\Users\14779\source\repos\Csharp练习1\条件if\bin\Debug\条件if.exe.config
+C:\Users\14779\source\repos\Csharp练习1\条件if\bin\Debug\条件if.exe
+C:\Users\14779\source\repos\Csharp练习1\条件if\bin\Debug\条件if.pdb
+C:\Users\14779\source\repos\Csharp练习1\条件if\obj\Debug\条件if.csproj.AssemblyReference.cache
+C:\Users\14779\source\repos\Csharp练习1\条件if\obj\Debug\条件if.csproj.CoreCompileInputs.cache
+C:\Users\14779\source\repos\Csharp练习1\条件if\obj\Debug\条件if.exe
+C:\Users\14779\source\repos\Csharp练习1\条件if\obj\Debug\条件if.pdb
