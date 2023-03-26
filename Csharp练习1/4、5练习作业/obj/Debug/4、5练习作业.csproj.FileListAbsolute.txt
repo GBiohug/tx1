@@ -1,7 +1,0 @@
-C:\Users\14779\source\repos\Csharp练习1\4、5练习作业\bin\Debug\4、5练习作业.exe.config
-C:\Users\14779\source\repos\Csharp练习1\4、5练习作业\bin\Debug\4、5练习作业.exe
-C:\Users\14779\source\repos\Csharp练习1\4、5练习作业\bin\Debug\4、5练习作业.pdb
-C:\Users\14779\source\repos\Csharp练习1\4、5练习作业\obj\Debug\4、5练习作业.csproj.AssemblyReference.cache
-C:\Users\14779\source\repos\Csharp练习1\4、5练习作业\obj\Debug\4、5练习作业.csproj.CoreCompileInputs.cache
-C:\Users\14779\source\repos\Csharp练习1\4、5练习作业\obj\Debug\4、5练习作业.exe
-C:\Users\14779\source\repos\Csharp练习1\4、5练习作业\obj\Debug\4、5练习作业.pdb

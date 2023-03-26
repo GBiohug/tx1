@@ -1,6 +1,0 @@
-C:\Users\14779\source\repos\Csharp练习1\004\bin\Debug\004.exe.config
-C:\Users\14779\source\repos\Csharp练习1\004\bin\Debug\004.exe
-C:\Users\14779\source\repos\Csharp练习1\004\bin\Debug\004.pdb
-C:\Users\14779\source\repos\Csharp练习1\004\obj\Debug\004.csproj.CoreCompileInputs.cache
-C:\Users\14779\source\repos\Csharp练习1\004\obj\Debug\004.exe
-C:\Users\14779\source\repos\Csharp练习1\004\obj\Debug\004.pdb

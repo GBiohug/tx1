@@ -1,7 +1,0 @@
-C:\Users\14779\source\repos\Csharp练习1\P63编程题\bin\Debug\P63编程题.exe.config
-C:\Users\14779\source\repos\Csharp练习1\P63编程题\bin\Debug\P63编程题.exe
-C:\Users\14779\source\repos\Csharp练习1\P63编程题\bin\Debug\P63编程题.pdb
-C:\Users\14779\source\repos\Csharp练习1\P63编程题\obj\Debug\P63编程题.csproj.AssemblyReference.cache
-C:\Users\14779\source\repos\Csharp练习1\P63编程题\obj\Debug\P63编程题.csproj.CoreCompileInputs.cache
-C:\Users\14779\source\repos\Csharp练习1\P63编程题\obj\Debug\P63编程题.exe
-C:\Users\14779\source\repos\Csharp练习1\P63编程题\obj\Debug\P63编程题.pdb

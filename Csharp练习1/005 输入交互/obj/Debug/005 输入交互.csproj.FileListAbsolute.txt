@@ -1,7 +1,0 @@
-C:\Users\14779\source\repos\Csharp练习1\005 输入交互\bin\Debug\005 输入交互.exe.config
-C:\Users\14779\source\repos\Csharp练习1\005 输入交互\bin\Debug\005 输入交互.exe
-C:\Users\14779\source\repos\Csharp练习1\005 输入交互\bin\Debug\005 输入交互.pdb
-C:\Users\14779\source\repos\Csharp练习1\005 输入交互\obj\Debug\005 输入交互.csproj.CoreCompileInputs.cache
-C:\Users\14779\source\repos\Csharp练习1\005 输入交互\obj\Debug\005 输入交互.exe
-C:\Users\14779\source\repos\Csharp练习1\005 输入交互\obj\Debug\005 输入交互.pdb
-C:\Users\14779\source\repos\Csharp练习1\005 输入交互\obj\Debug\005 输入交互.csproj.AssemblyReference.cache

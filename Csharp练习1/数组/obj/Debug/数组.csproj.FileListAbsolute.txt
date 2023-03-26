@@ -1,7 +1,0 @@
-C:\Users\14779\source\repos\Csharp练习1\数组\bin\Debug\数组.exe.config
-C:\Users\14779\source\repos\Csharp练习1\数组\bin\Debug\数组.exe
-C:\Users\14779\source\repos\Csharp练习1\数组\bin\Debug\数组.pdb
-C:\Users\14779\source\repos\Csharp练习1\数组\obj\Debug\数组.csproj.AssemblyReference.cache
-C:\Users\14779\source\repos\Csharp练习1\数组\obj\Debug\数组.csproj.CoreCompileInputs.cache
-C:\Users\14779\source\repos\Csharp练习1\数组\obj\Debug\数组.exe
-C:\Users\14779\source\repos\Csharp练习1\数组\obj\Debug\数组.pdb

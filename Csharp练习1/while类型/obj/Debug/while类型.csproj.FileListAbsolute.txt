@@ -1,7 +1,0 @@
-C:\Users\14779\source\repos\Csharp练习1\while类型\bin\Debug\while类型.exe.config
-C:\Users\14779\source\repos\Csharp练习1\while类型\bin\Debug\while类型.exe
-C:\Users\14779\source\repos\Csharp练习1\while类型\bin\Debug\while类型.pdb
-C:\Users\14779\source\repos\Csharp练习1\while类型\obj\Debug\while类型.csproj.AssemblyReference.cache
-C:\Users\14779\source\repos\Csharp练习1\while类型\obj\Debug\while类型.csproj.CoreCompileInputs.cache
-C:\Users\14779\source\repos\Csharp练习1\while类型\obj\Debug\while类型.exe
-C:\Users\14779\source\repos\Csharp练习1\while类型\obj\Debug\while类型.pdb
